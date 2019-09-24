@@ -6,7 +6,7 @@ class Machine
 
   def initialize(api)
     @api = api
-    transition_to(:latest)
+    transition_to(:main_menu)
   end
 
   def transition_to(state, data = nil)
