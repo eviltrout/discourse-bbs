@@ -19,7 +19,7 @@ GEM
       mini_portile2 (~> 2.5.0)
       racc (~> 1.4)
     racc (1.5.2)
-    rack (2.2.3)
+    rack (3.0.4.1)
     word_wrap (1.0.0)
 
 PLATFORMS
